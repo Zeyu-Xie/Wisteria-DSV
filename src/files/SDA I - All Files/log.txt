@@ -1,0 +1,261 @@
+[2024-11-20 08:46:46:131] Download Path Created
+[2024-11-20 08:46:46:131] Chrome Options Set
+[2024-11-20 08:46:46:131] Download Path: /Users/zeyuxie/Downloads/Athena_20241120084646131217
+[2024-11-20 08:46:54:328] Driver Started
+[2024-11-20 08:46:54:964] Opened Athena
+[2024-11-20 08:46:54:967] Auto Login Enabled by Config, Logging in
+[2024-11-20 08:46:57:206] Clicked Login Button
+[2024-11-20 08:46:57:313] Filled in Username and Password
+[2024-11-20 08:47:00:577] Clicked Login Submit Button
+[2024-11-20 08:47:00:580] Login Successful
+[2024-11-20 08:47:01:195] Folder Opened
+[2024-11-20 08:47:01:198] Listing files from https://athena.itslearning.com/Resources?FolderID=3000308
+[2024-11-20 08:47:02:651] Listing files from https://athena.itslearning.com/Resources?FolderID=3000309&PlayPlanDialogView=False&ReloadTree=False
+[2024-11-20 08:47:03:661] Listing files from https://athena.itslearning.com/Resources?FolderID=3045858&PlayPlanDialogView=False&ReloadTree=False
+[2024-11-20 08:47:04:682] Listing files from https://athena.itslearning.com/Resources?FolderID=3255365&PlayPlanDialogView=False&ReloadTree=False
+[2024-11-20 08:47:05:841] Listing files from https://athena.itslearning.com/Resources?FolderID=3246323&PlayPlanDialogView=False&ReloadTree=False
+[2024-11-20 08:47:06:935] Listing files from https://athena.itslearning.com/Resources?FolderID=3267521&PlayPlanDialogView=False&ReloadTree=False
+[2024-11-20 08:47:07:865] Listing files from https://athena.itslearning.com/Resources?FolderID=3267517&PlayPlanDialogView=False&ReloadTree=False
+[2024-11-20 08:47:08:781] Listing files from https://athena.itslearning.com/Resources?FolderID=3275211&PlayPlanDialogView=False&ReloadTree=False
+[2024-11-20 08:47:09:502] Listing files from https://athena.itslearning.com/Resources?FolderID=3284768&PlayPlanDialogView=False&ReloadTree=False
+[2024-11-20 08:47:10:908] Listing files from https://athena.itslearning.com/Resources?FolderID=3255367&PlayPlanDialogView=False&ReloadTree=False
+[2024-11-20 08:47:12:266] Listing files from https://athena.itslearning.com/Resources?FolderID=3276663&PlayPlanDialogView=False&ReloadTree=False
+[2024-11-20 08:47:13:495] Listing files from https://athena.itslearning.com/Resources?FolderID=3258610&PlayPlanDialogView=False&ReloadTree=False
+[2024-11-20 08:47:14:475] Listing files from https://athena.itslearning.com/Resources?FolderID=3272492&PlayPlanDialogView=False&ReloadTree=False
+[2024-11-20 08:47:15:544] Listing files from https://athena.itslearning.com/Resources?FolderID=3282722&PlayPlanDialogView=False&ReloadTree=False
+[2024-11-20 08:47:16:560] Listing files from https://athena.itslearning.com/Resources?FolderID=3255366&PlayPlanDialogView=False&ReloadTree=False
+[2024-11-20 08:47:16:568] All Files URL Listed
+[2024-11-20 08:47:16:569] All Files Path Listed
+[2024-11-20 08:47:16:569] All Files Download List Generated
+[2024-11-20 08:47:18:661] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3000310
+[2024-11-20 08:47:18:663] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Kursinformation
+[2024-11-20 08:47:18:743] Downloaded Kursinformation/Kursplan ST1601
+[2024-11-20 08:47:19:524] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3000312
+[2024-11-20 08:47:19:525] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Kursinformation
+[2024-11-20 08:47:19:550] No download button found for Kursinformation/Schedule for ST1601 - 39024
+[2024-11-20 08:47:21:042] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3044507
+[2024-11-20 08:47:21:044] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Kursinformation
+[2024-11-20 08:47:21:112] Downloaded Kursinformation/Syllabus ST1601
+[2024-11-20 08:47:22:346] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3224828
+[2024-11-20 08:47:22:348] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Kursinformation
+[2024-11-20 08:47:22:414] Downloaded Kursinformation/240912_Reading.pdf
+[2024-11-20 08:47:23:556] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3224829
+[2024-11-20 08:47:23:558] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Kursinformation
+[2024-11-20 08:47:23:626] Downloaded Kursinformation/241003_CourseDescription.pdf
+[2024-11-20 08:47:24:392] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3045861
+[2024-11-20 08:47:24:393] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Kursvärdering
+[2024-11-20 08:47:24:425] No download button found for Kursvärdering/Länk till kursvärdering
+[2024-11-20 08:47:25:169] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3045864
+[2024-11-20 08:47:25:170] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Kursvärdering
+[2024-11-20 08:47:25:201] No download button found for Kursvärdering/Sammanställning av kvantitativa svar
+[2024-11-20 08:47:26:519] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3045866
+[2024-11-20 08:47:26:520] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Kursvärdering
+[2024-11-20 08:47:26:540] No download button found for Kursvärdering/Kursrapport
+[2024-11-20 08:47:28:574] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3094430
+[2024-11-20 08:47:28:575] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217
+[2024-11-20 08:47:28:594] No download button found for Group selection
+[2024-11-20 08:47:29:811] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3246326
+[2024-11-20 08:47:29:816] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Computer labs
+[2024-11-20 08:47:29:882] Downloaded Part 1/Computer labs/install R and Rstudio.pdf
+[2024-11-20 08:47:31:194] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3259483
+[2024-11-20 08:47:31:198] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Computer labs
+[2024-11-20 08:47:31:263] Downloaded Part 1/Computer labs/shortcuts.pdf
+[2024-11-20 08:47:32:288] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3255309
+[2024-11-20 08:47:32:289] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Computer labs/Computer lab 1
+[2024-11-20 08:47:32:357] Downloaded Part 1/Computer labs/Computer lab 1/stock.csv
+[2024-11-20 08:47:33:202] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3255310
+[2024-11-20 08:47:33:204] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Computer labs/Computer lab 1
+[2024-11-20 08:47:33:268] Downloaded Part 1/Computer labs/Computer lab 1/stock.xlsx
+[2024-11-20 08:47:34:561] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3263321
+[2024-11-20 08:47:34:565] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Computer labs/Computer lab 1
+[2024-11-20 08:47:34:628] Downloaded Part 1/Computer labs/Computer lab 1/Computer_Lab_1.pdf
+[2024-11-20 08:47:35:311] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3255306
+[2024-11-20 08:47:35:312] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Computer labs/Computer lab 2
+[2024-11-20 08:47:35:383] Downloaded Part 1/Computer labs/Computer lab 2/Computer_Lab_2.html
+[2024-11-20 08:47:36:130] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3255307
+[2024-11-20 08:47:36:132] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Computer labs/Computer lab 2
+[2024-11-20 08:47:36:209] Downloaded Part 1/Computer labs/Computer lab 2/FevChildren.RData
+[2024-11-20 08:47:36:867] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3255308
+[2024-11-20 08:47:36:869] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Computer labs/Computer lab 2
+[2024-11-20 08:47:36:936] Downloaded Part 1/Computer labs/Computer lab 2/SmartPhones.RData
+[2024-11-20 08:47:37:877] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3255311
+[2024-11-20 08:47:37:878] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Computer labs/Computer lab 2
+[2024-11-20 08:47:38:001] Downloaded Part 1/Computer labs/Computer lab 2/Titanic.xlsx
+[2024-11-20 08:47:39:167] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3275213
+[2024-11-20 08:47:39:170] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Computer labs/Computer lab 3
+[2024-11-20 08:47:39:239] Downloaded Part 1/Computer labs/Computer lab 3/Computer_Lab_3_DSV.pdf
+[2024-11-20 08:47:39:934] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3275214
+[2024-11-20 08:47:39:936] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Computer labs/Computer lab 3
+[2024-11-20 08:47:39:999] Downloaded Part 1/Computer labs/Computer lab 3/FevChildren.RData
+[2024-11-20 08:47:40:690] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3275215
+[2024-11-20 08:47:40:691] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Computer labs/Computer lab 3
+[2024-11-20 08:47:40:763] Downloaded Part 1/Computer labs/Computer lab 3/marketing.csv
+[2024-11-20 08:47:41:392] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3275216
+[2024-11-20 08:47:41:394] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Computer labs/Computer lab 3
+[2024-11-20 08:47:41:462] Downloaded Part 1/Computer labs/Computer lab 3/salary2.csv
+[2024-11-20 08:47:42:458] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3275217
+[2024-11-20 08:47:42:460] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Computer labs/Computer lab 3
+[2024-11-20 08:47:42:561] Downloaded Part 1/Computer labs/Computer lab 3/salary.xlsx
+[2024-11-20 08:47:43:285] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3275218
+[2024-11-20 08:47:43:287] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Computer labs/Computer lab 3
+[2024-11-20 08:47:43:357] Downloaded Part 1/Computer labs/Computer lab 3/shoevsheight.csv
+[2024-11-20 08:47:44:501] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3276659
+[2024-11-20 08:47:44:504] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Assignment
+[2024-11-20 08:47:44:576] Downloaded Part 1/Assignment/241109_Assignment1.pdf
+[2024-11-20 08:47:45:360] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3276664
+[2024-11-20 08:47:45:361] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Assignment/Datasets
+[2024-11-20 08:47:45:477] Downloaded Part 1/Assignment/Datasets/dataset01.xlsx
+[2024-11-20 08:47:46:447] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3276665
+[2024-11-20 08:47:46:448] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Assignment/Datasets
+[2024-11-20 08:47:46:586] Downloaded Part 1/Assignment/Datasets/dataset02.xlsx
+[2024-11-20 08:47:47:592] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3276666
+[2024-11-20 08:47:47:594] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Assignment/Datasets
+[2024-11-20 08:47:47:754] Downloaded Part 1/Assignment/Datasets/dataset03.xlsx
+[2024-11-20 08:47:48:530] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3276667
+[2024-11-20 08:47:48:532] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Assignment/Datasets
+[2024-11-20 08:47:48:704] Downloaded Part 1/Assignment/Datasets/dataset04.xlsx
+[2024-11-20 08:47:49:678] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3276668
+[2024-11-20 08:47:49:681] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Assignment/Datasets
+[2024-11-20 08:47:49:892] Downloaded Part 1/Assignment/Datasets/dataset05.xlsx
+[2024-11-20 08:47:50:720] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3276669
+[2024-11-20 08:47:50:721] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Assignment/Datasets
+[2024-11-20 08:47:50:934] Downloaded Part 1/Assignment/Datasets/dataset06.xlsx
+[2024-11-20 08:47:51:807] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3276670
+[2024-11-20 08:47:51:809] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Assignment/Datasets
+[2024-11-20 08:47:51:869] Downloaded Part 1/Assignment/Datasets/dataset07.xlsx
+[2024-11-20 08:47:52:711] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3276671
+[2024-11-20 08:47:52:713] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Assignment/Datasets
+[2024-11-20 08:47:52:873] Downloaded Part 1/Assignment/Datasets/dataset08.xlsx
+[2024-11-20 08:47:53:897] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3276672
+[2024-11-20 08:47:53:899] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Assignment/Datasets
+[2024-11-20 08:47:54:081] Downloaded Part 1/Assignment/Datasets/dataset09.xlsx
+[2024-11-20 08:47:54:921] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3276673
+[2024-11-20 08:47:54:922] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Assignment/Datasets
+[2024-11-20 08:47:55:096] Downloaded Part 1/Assignment/Datasets/dataset10.xlsx
+[2024-11-20 08:47:56:073] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3276674
+[2024-11-20 08:47:56:074] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Assignment/Datasets
+[2024-11-20 08:47:56:241] Downloaded Part 1/Assignment/Datasets/dataset11.xlsx
+[2024-11-20 08:47:57:429] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3276675
+[2024-11-20 08:47:57:431] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Assignment/Datasets
+[2024-11-20 08:47:57:613] Downloaded Part 1/Assignment/Datasets/dataset12.xlsx
+[2024-11-20 08:47:58:590] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3276676
+[2024-11-20 08:47:58:591] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Assignment/Datasets
+[2024-11-20 08:47:58:800] Downloaded Part 1/Assignment/Datasets/dataset13.xlsx
+[2024-11-20 08:47:59:997] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3276677
+[2024-11-20 08:47:59:999] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Assignment/Datasets
+[2024-11-20 08:48:00:187] Downloaded Part 1/Assignment/Datasets/dataset14.xlsx
+[2024-11-20 08:48:01:132] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3276678
+[2024-11-20 08:48:01:134] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Assignment/Datasets
+[2024-11-20 08:48:01:195] Downloaded Part 1/Assignment/Datasets/dataset15.xlsx
+[2024-11-20 08:48:03:975] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3276679
+[2024-11-20 08:48:03:976] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Assignment/Datasets
+[2024-11-20 08:48:04:222] Downloaded Part 1/Assignment/Datasets/dataset16.xlsx
+[2024-11-20 08:48:05:359] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3276680
+[2024-11-20 08:48:05:364] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Assignment/Datasets
+[2024-11-20 08:48:05:637] Downloaded Part 1/Assignment/Datasets/dataset17.xlsx
+[2024-11-20 08:48:06:515] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3276681
+[2024-11-20 08:48:06:517] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Assignment/Datasets
+[2024-11-20 08:48:06:578] Downloaded Part 1/Assignment/Datasets/dataset18.xlsx
+[2024-11-20 08:48:07:940] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3276682
+[2024-11-20 08:48:07:941] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Assignment/Datasets
+[2024-11-20 08:48:08:231] Downloaded Part 1/Assignment/Datasets/dataset19.xlsx
+[2024-11-20 08:48:09:353] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3276683
+[2024-11-20 08:48:09:354] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Assignment/Datasets
+[2024-11-20 08:48:09:416] Downloaded Part 1/Assignment/Datasets/dataset20.xlsx
+[2024-11-20 08:48:10:694] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3276684
+[2024-11-20 08:48:10:696] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Assignment/Datasets
+[2024-11-20 08:48:10:758] Downloaded Part 1/Assignment/Datasets/dataset21.xlsx
+[2024-11-20 08:48:11:707] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3276685
+[2024-11-20 08:48:11:709] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Assignment/Datasets
+[2024-11-20 08:48:11:770] Downloaded Part 1/Assignment/Datasets/dataset22.xlsx
+[2024-11-20 08:48:12:678] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3276686
+[2024-11-20 08:48:12:680] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Assignment/Datasets
+[2024-11-20 08:48:12:937] Downloaded Part 1/Assignment/Datasets/dataset23.xlsx
+[2024-11-20 08:48:13:839] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3276687
+[2024-11-20 08:48:13:841] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Assignment/Datasets
+[2024-11-20 08:48:14:114] Downloaded Part 1/Assignment/Datasets/dataset24.xlsx
+[2024-11-20 08:48:15:288] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3276661
+[2024-11-20 08:48:15:290] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Assignment
+[2024-11-20 08:48:15:356] Downloaded Part 1/Assignment/241104_AssignmentsGroup_DSV.pdf
+[2024-11-20 08:48:16:188] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3276660
+[2024-11-20 08:48:16:189] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Assignment
+[2024-11-20 08:48:16:461] Downloaded Part 1/Assignment/test.xlsx
+[2024-11-20 08:48:17:392] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3255381
+[2024-11-20 08:48:17:393] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Assignment
+[2024-11-20 08:48:17:595] Downloaded Part 1/Assignment/241104_AssignmentsGroup.xlsx
+[2024-11-20 08:48:19:116] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3276693
+[2024-11-20 08:48:19:117] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Assignment
+[2024-11-20 08:48:19:137] No download button found for Part 1/Assignment/Submission: Group A
+[2024-11-20 08:48:20:406] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3258611
+[2024-11-20 08:48:20:409] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Lectures
+[2024-11-20 08:48:20:476] Downloaded Part 1/Lectures/241105_Intro.pdf
+[2024-11-20 08:48:21:779] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3262440
+[2024-11-20 08:48:21:783] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Lectures
+[2024-11-20 08:48:21:849] Downloaded Part 1/Lectures/Lecture02.pdf
+[2024-11-20 08:48:22:992] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3270060
+[2024-11-20 08:48:22:995] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Lectures
+[2024-11-20 08:48:23:061] Downloaded Part 1/Lectures/Lecture03.pdf
+[2024-11-20 08:48:24:205] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3272470
+[2024-11-20 08:48:24:208] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Lectures
+[2024-11-20 08:48:24:277] Downloaded Part 1/Lectures/Lecture04.pdf
+[2024-11-20 08:48:25:496] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3275302
+[2024-11-20 08:48:25:500] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Lectures
+[2024-11-20 08:48:25:565] Downloaded Part 1/Lectures/Lecture05.pdf
+[2024-11-20 08:48:26:668] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3283326
+[2024-11-20 08:48:26:671] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Lectures
+[2024-11-20 08:48:26:741] Downloaded Part 1/Lectures/Lecture06.pdf
+[2024-11-20 08:48:27:800] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3284803
+[2024-11-20 08:48:27:803] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Lectures
+[2024-11-20 08:48:27:873] Downloaded Part 1/Lectures/Lecture07.pdf
+[2024-11-20 08:48:28:967] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3275299
+[2024-11-20 08:48:28:972] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Lectures
+[2024-11-20 08:48:29:037] Downloaded Part 1/Lectures/241105_Presentation01.pdf
+[2024-11-20 08:48:30:127] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3275300
+[2024-11-20 08:48:30:129] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Lectures
+[2024-11-20 08:48:30:195] Downloaded Part 1/Lectures/241105_Presentation02.pdf
+[2024-11-20 08:48:31:356] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3275301
+[2024-11-20 08:48:31:359] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Lectures
+[2024-11-20 08:48:31:427] Downloaded Part 1/Lectures/241105_Presentation03.pdf
+[2024-11-20 08:48:32:524] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3283327
+[2024-11-20 08:48:32:526] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Lectures
+[2024-11-20 08:48:32:594] Downloaded Part 1/Lectures/241105_Presentation04.pdf
+[2024-11-20 08:48:34:815] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3284818
+[2024-11-20 08:48:34:818] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Lectures
+[2024-11-20 08:48:34:885] Downloaded Part 1/Lectures/241105_Presentation05.pdf
+[2024-11-20 08:48:37:026] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3290640
+[2024-11-20 08:48:37:029] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Lectures
+[2024-11-20 08:48:37:096] Downloaded Part 1/Lectures/Lecture08.pdf
+[2024-11-20 08:48:38:268] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3290641
+[2024-11-20 08:48:38:271] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Lectures
+[2024-11-20 08:48:38:341] Downloaded Part 1/Lectures/241105_Presentation06.pdf
+[2024-11-20 08:48:40:142] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3272493
+[2024-11-20 08:48:40:145] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Exercises
+[2024-11-20 08:48:40:214] Downloaded Part 1/Exercises/241111_Formula_Sheet.pdf
+[2024-11-20 08:48:41:426] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3290645
+[2024-11-20 08:48:41:430] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Exercises
+[2024-11-20 08:48:41:497] Downloaded Part 1/Exercises/241112_Exercises.pdf
+[2024-11-20 08:48:44:116] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3283314
+[2024-11-20 08:48:44:119] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Exams
+[2024-11-20 08:48:44:186] Downloaded Part 1/Exams/240327_Exam.pdf
+[2024-11-20 08:48:45:522] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3283315
+[2024-11-20 08:48:45:525] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Exams
+[2024-11-20 08:48:45:593] Downloaded Part 1/Exams/240327_Solution.pdf
+[2024-11-20 08:48:46:754] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3283316
+[2024-11-20 08:48:46:757] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Exams
+[2024-11-20 08:48:46:825] Downloaded Part 1/Exams/240927_Exam.pdf
+[2024-11-20 08:48:47:917] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3283317
+[2024-11-20 08:48:47:920] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Exams
+[2024-11-20 08:48:47:991] Downloaded Part 1/Exams/240927_Solution.pdf
+[2024-11-20 08:48:49:082] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3283318
+[2024-11-20 08:48:49:084] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Exams
+[2024-11-20 08:48:49:152] Downloaded Part 1/Exams/241107_Exam.pdf
+[2024-11-20 08:48:50:288] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3283319
+[2024-11-20 08:48:50:290] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Exams
+[2024-11-20 08:48:50:358] Downloaded Part 1/Exams/241107_Solution.pdf
+[2024-11-20 08:48:51:410] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3282723
+[2024-11-20 08:48:51:414] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Exams
+[2024-11-20 08:48:51:482] Downloaded Part 1/Exams/241115_Example.pdf
+[2024-11-20 08:48:53:146] Opened https://athena.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=3282724
+[2024-11-20 08:48:53:149] Set download directory to /Users/zeyuxie/Downloads/Athena_20241120084646131217/Part 1/Exams
+[2024-11-20 08:48:53:215] Downloaded Part 1/Exams/241115_Solutions.pdf
+[2024-11-20 08:48:53:217] All 77 files downloaded successfully, total size: 14.2 MiB.
